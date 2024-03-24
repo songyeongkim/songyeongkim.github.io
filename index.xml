@@ -14,30 +14,30 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
       <guid>https://example.org/contact/</guid><description>그림을 그립니다.</description></item>
     <item>
-      <title></title>
-      <link>https://example.org/illust/gorani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/illust/gorani/</guid><media:content url="https://example.org/illust/gorani/20200407_dawn_hub46cd1e36904e3f4ae512d62760f85cf_3777731_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/illust/gorani/20200407_dawn_hub46cd1e36904e3f4ae512d62760f85cf_3777731_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;유튜브 고라니잡곡창고&lt;/p&gt;
-        </description></item>
-    <item>
-      <title></title>
-      <link>https://example.org/illust/personal-work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/illust/personal-work/</guid><media:content url="https://example.org/illust/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/illust/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;다양한 그림을 그립니다.&lt;/p&gt;
-        </description></item>
-    <item>
       <title>Gorani</title>
       <link>https://example.org/design/gorani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
       <guid>https://example.org/design/gorani/</guid><media:content url="https://example.org/design/gorani/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;https://example.org/design/gorani/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Gorani Youtube</title>
+      <link>https://example.org/illust/gorani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/gorani/</guid><media:content url="https://example.org/illust/gorani/20200407_dawn_hub46cd1e36904e3f4ae512d62760f85cf_3777731_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/gorani/20200407_dawn_hub46cd1e36904e3f4ae512d62760f85cf_3777731_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Personal work</title>
+      <link>https://example.org/illust/personal-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/personal-work/</guid><media:content url="https://example.org/illust/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
