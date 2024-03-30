@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
-    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
+    <copyright>songyeongkim</copyright><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

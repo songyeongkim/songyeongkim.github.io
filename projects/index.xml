@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on songyeongkim</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Projects on songyeongkim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
+    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
+    <copyright>songyeongkim</copyright><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProjectT</title>
+      <link>https://example.org/projects/projectt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/projects/projectt/</guid><media:content url="https://example.org/projects/projectt/screenshot_hu2caad3941708008dc066efcdd327ebf3_566055_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/projects/projectt/screenshot_hu2caad3941708008dc066efcdd327ebf3_566055_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>WhiteCube</title>
+      <link>https://example.org/projects/whitecube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/projects/whitecube/</guid><media:content url="https://example.org/projects/whitecube/whiteCube_hu8d6162fe98f3cf4ac62652ed3367c900_1061707_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/projects/whitecube/whiteCube_hu8d6162fe98f3cf4ac62652ed3367c900_1061707_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -2,28 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/design/</loc>
-  </url><url>
-    <loc>https://example.org/game/</loc>
-  </url><url>
     <loc>https://example.org/illust/</loc>
+  </url><url>
+    <loc>https://example.org/projects/</loc>
   </url><url>
     <loc>https://example.org/contact/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
-  </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>https://example.org/design/gorani/</loc>
+    <loc>https://example.org/illust/goods/</loc>
   </url><url>
     <loc>https://example.org/illust/gorani/</loc>
   </url><url>
     <loc>https://example.org/illust/personal-work/</loc>
   </url><url>
-    <loc>https://example.org/game/projectt/</loc>
+    <loc>https://example.org/projects/projectt/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
-    <loc>https://example.org/game/whitecube/</loc>
+    <loc>https://example.org/projects/whitecube/</loc>
   </url>
 </urlset>
