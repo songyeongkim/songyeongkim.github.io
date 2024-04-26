@@ -8,6 +8,34 @@
     <language>en-us</language>
     <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
     <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
-    <copyright>songyeongkim</copyright><atom:link href="https://example.org/illust/goods/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>songyeongkim</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 09:33:43 +0900</lastBuildDate><atom:link href="https://example.org/illust/goods/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FabricPoster-deer</title>
+      <link>https://example.org/illust/goods/fabricposter_deer/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_deer/</guid><media:content url="https://example.org/illust/goods/fabricposter_deer/0_huf3344af7bd523cd0f741852e58e49cae_745765_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_deer/0_huf3344af7bd523cd0f741852e58e49cae_745765_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FabricPoster-squirrel</title>
+      <link>https://example.org/illust/goods/fabricposter_squirrel/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_squirrel/</guid><media:content url="https://example.org/illust/goods/fabricposter_squirrel/0_hub35fa93b51942250432e3952cae12fe5_704457_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_squirrel/0_hub35fa93b51942250432e3952cae12fe5_704457_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FabricPoster-star</title>
+      <link>https://example.org/illust/goods/fabricposter_star/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_star/</guid><media:content url="https://example.org/illust/goods/fabricposter_star/0_hu4c2a095afb2a2ac7a8f13eefb3de5158_741137_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_star/0_hu4c2a095afb2a2ac7a8f13eefb3de5158_741137_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

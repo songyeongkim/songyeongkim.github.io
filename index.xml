@@ -8,12 +8,121 @@
     <language>en-us</language>
     <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
     <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
-    <copyright>songyeongkim</copyright><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>songyeongkim</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 14:37:07 +0900</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://example.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
       <guid>https://example.org/contact/</guid><description>그림을 그립니다.</description></item>
+    <item>
+      <title>White Cube</title>
+      <link>https://example.org/game/2022_7_whitecube/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:07 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_7_whitecube/</guid><media:content url="https://example.org/game/2022_7_whitecube/4_huca91b40a12345e364c4f79f30654ced2_157568_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_7_whitecube/4_huca91b40a12345e364c4f79f30654ced2_157568_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Throw Ball!</title>
+      <link>https://example.org/game/2022_5_throwball/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:05 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_5_throwball/</guid><media:content url="https://example.org/game/2022_5_throwball/0_hub62a270fd125f6e701f30a76f9bdb946_4014524_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_5_throwball/0_hub62a270fd125f6e701f30a76f9bdb946_4014524_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Chess Defense</title>
+      <link>https://example.org/game/2022_4_chess-defense/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:04 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_4_chess-defense/</guid><media:content url="https://example.org/game/2022_4_chess-defense/0_hu34b482354292473f79045e1a65c59f86_1649795_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_4_chess-defense/0_hu34b482354292473f79045e1a65c59f86_1649795_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>TextRPG</title>
+      <link>https://example.org/game/2022_3_textrpg/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:03 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_3_textrpg/</guid><media:content url="https://example.org/game/2022_3_textrpg/0_hu7b602b9aca84b0be9c268e8456d217f1_383380_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_3_textrpg/0_hu7b602b9aca84b0be9c268e8456d217f1_383380_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FabricPoster-deer</title>
+      <link>https://example.org/illust/goods/fabricposter_deer/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_deer/</guid><media:content url="https://example.org/illust/goods/fabricposter_deer/0_huf3344af7bd523cd0f741852e58e49cae_745765_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_deer/0_huf3344af7bd523cd0f741852e58e49cae_745765_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FabricPoster-squirrel</title>
+      <link>https://example.org/illust/goods/fabricposter_squirrel/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_squirrel/</guid><media:content url="https://example.org/illust/goods/fabricposter_squirrel/0_hub35fa93b51942250432e3952cae12fe5_704457_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_squirrel/0_hub35fa93b51942250432e3952cae12fe5_704457_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>FabricPoster-star</title>
+      <link>https://example.org/illust/goods/fabricposter_star/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/illust/goods/fabricposter_star/</guid><media:content url="https://example.org/illust/goods/fabricposter_star/0_hu4c2a095afb2a2ac7a8f13eefb3de5158_741137_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/illust/goods/fabricposter_star/0_hu4c2a095afb2a2ac7a8f13eefb3de5158_741137_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Project in Progess</title>
+      <link>https://example.org/game/2023_projectt/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2023_projectt/</guid><media:content url="https://example.org/game/2023_projectt/0_hu7ed34443d1544a352b46060898c0c6d5_89316_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2023_projectt/0_hu7ed34443d1544a352b46060898c0c6d5_89316_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>DDoDDo children&#39;s korean worksheets</title>
+      <link>https://example.org/design/ddoddo/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:42 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/ddoddo/</guid><media:content url="https://example.org/design/ddoddo/0_hub4dc46a35d4e22bca754a37bf37be356_1343118_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/ddoddo/0_hub4dc46a35d4e22bca754a37bf37be356_1343118_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Itsfont website</title>
+      <link>https://example.org/design/itsfontweb/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:41 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/itsfontweb/</guid><media:content url="https://example.org/design/itsfontweb/2_hud862bcffe07126b22902d686aff5c114_645668_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/itsfontweb/2_hud862bcffe07126b22902d686aff5c114_645668_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Together branding book</title>
+      <link>https://example.org/design/together-branding-book/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:40 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/together-branding-book/</guid><media:content url="https://example.org/design/together-branding-book/0_hue43b7afc582b4fc13f4f25a516a26e12_568170_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/together-branding-book/0_hue43b7afc582b4fc13f4f25a516a26e12_568170_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Together font sample book</title>
+      <link>https://example.org/design/together-font-sample-book/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:40 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/together-font-sample-book/</guid><media:content url="https://example.org/design/together-font-sample-book/1_hua556a73ae845bcd0860ef617ba016738_112902_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/together-font-sample-book/1_hua556a73ae845bcd0860ef617ba016738_112902_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
     <item>
       <title>Gorani Youtube</title>
       <link>https://example.org/illust/gorani/</link>
@@ -27,27 +136,9 @@
       <title>Personal work</title>
       <link>https://example.org/illust/personal-work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/illust/personal-work/</guid><media:content url="https://example.org/illust/personal-work/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <guid>https://example.org/illust/personal-work/</guid><media:content url="https://example.org/illust/personal-work/KakaoTalk_20240426_220103395_huf7149f0aecbbe0e7a6cf64d570b0a3aa_236041_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/illust/personal-work/personal-work/personal_huebbfad1edfa8e198fe68a27ac6a615ca_863162_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>ProjectT</title>
-      <link>https://example.org/projects/projectt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/projects/projectt/</guid><media:content url="https://example.org/projects/projectt/screenshot_hu2caad3941708008dc066efcdd327ebf3_566055_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/projects/projectt/screenshot_hu2caad3941708008dc066efcdd327ebf3_566055_900x600_fill_box_smart1_3.png&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>WhiteCube</title>
-      <link>https://example.org/projects/whitecube/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/projects/whitecube/</guid><media:content url="https://example.org/projects/whitecube/whiteCube_hu8d6162fe98f3cf4ac62652ed3367c900_1061707_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;https://example.org/projects/whitecube/whiteCube_hu8d6162fe98f3cf4ac62652ed3367c900_1061707_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;img src=&quot;https://example.org/illust/personal-work/KakaoTalk_20240426_220103395_huf7149f0aecbbe0e7a6cf64d570b0a3aa_236041_900x600_fill_box_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

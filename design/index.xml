@@ -7,14 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
-    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster><atom:link href="https://example.org/design/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
+    <copyright>songyeongkim</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 09:33:42 +0900</lastBuildDate><atom:link href="https://example.org/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gorani</title>
-      <link>https://example.org/design/gorani/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/design/gorani/</guid><media:content url="https://example.org/design/gorani/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <title>DDoDDo children&#39;s korean worksheets</title>
+      <link>https://example.org/design/ddoddo/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:42 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/ddoddo/</guid><media:content url="https://example.org/design/ddoddo/0_hub4dc46a35d4e22bca754a37bf37be356_1343118_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/design/gorani/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/design/ddoddo/0_hub4dc46a35d4e22bca754a37bf37be356_1343118_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Itsfont website</title>
+      <link>https://example.org/design/itsfontweb/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:41 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/itsfontweb/</guid><media:content url="https://example.org/design/itsfontweb/2_hud862bcffe07126b22902d686aff5c114_645668_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/itsfontweb/2_hud862bcffe07126b22902d686aff5c114_645668_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Together branding book</title>
+      <link>https://example.org/design/together-branding-book/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:40 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/together-branding-book/</guid><media:content url="https://example.org/design/together-branding-book/0_hue43b7afc582b4fc13f4f25a516a26e12_568170_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/together-branding-book/0_hue43b7afc582b4fc13f4f25a516a26e12_568170_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Together font sample book</title>
+      <link>https://example.org/design/together-font-sample-book/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:40 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/design/together-font-sample-book/</guid><media:content url="https://example.org/design/together-font-sample-book/1_hua556a73ae845bcd0860ef617ba016738_112902_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/design/together-font-sample-book/1_hua556a73ae845bcd0860ef617ba016738_112902_900x600_fill_box_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

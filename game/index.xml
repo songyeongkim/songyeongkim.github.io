@@ -7,23 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>songyeong125@gmail.com (songyeongkim)</managingEditor>
-    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster><atom:link href="https://example.org/game/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>songyeong125@gmail.com (songyeongkim)</webMaster>
+    <copyright>songyeongkim</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 14:37:07 +0900</lastBuildDate><atom:link href="https://example.org/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ProjectT</title>
-      <link>https://example.org/game/projectt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/game/projectt/</guid><media:content url="https://example.org/game/projectt/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <title>White Cube</title>
+      <link>https://example.org/game/2022_7_whitecube/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:07 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_7_whitecube/</guid><media:content url="https://example.org/game/2022_7_whitecube/4_huca91b40a12345e364c4f79f30654ced2_157568_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/game/projectt/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/game/2022_7_whitecube/4_huca91b40a12345e364c4f79f30654ced2_157568_900x600_fill_box_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>WhiteCube</title>
-      <link>https://example.org/game/whitecube/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
-      <guid>https://example.org/game/whitecube/</guid><media:content url="https://example.org/game/whitecube/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg" type="image/jpeg"/>
+      <title>Throw Ball!</title>
+      <link>https://example.org/game/2022_5_throwball/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:05 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_5_throwball/</guid><media:content url="https://example.org/game/2022_5_throwball/0_hub62a270fd125f6e701f30a76f9bdb946_4014524_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://example.org/game/whitecube/illust_hu8dab335a11c24d3cc4732ccc07c3150b_8535305_900x600_fill_q75_box_smart1.jpg&quot; /&gt;
+          &lt;img src=&quot;https://example.org/game/2022_5_throwball/0_hub62a270fd125f6e701f30a76f9bdb946_4014524_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Chess Defense</title>
+      <link>https://example.org/game/2022_4_chess-defense/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:04 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_4_chess-defense/</guid><media:content url="https://example.org/game/2022_4_chess-defense/0_hu34b482354292473f79045e1a65c59f86_1649795_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_4_chess-defense/0_hu34b482354292473f79045e1a65c59f86_1649795_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>TextRPG</title>
+      <link>https://example.org/game/2022_3_textrpg/</link>
+      <pubDate>Thu, 01 Jan 1970 14:37:03 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2022_3_textrpg/</guid><media:content url="https://example.org/game/2022_3_textrpg/0_hu7b602b9aca84b0be9c268e8456d217f1_383380_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2022_3_textrpg/0_hu7b602b9aca84b0be9c268e8456d217f1_383380_900x600_fill_box_smart1_3.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Project in Progess</title>
+      <link>https://example.org/game/2023_projectt/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:43 +0900</pubDate><author>songyeong125@gmail.com (songyeongkim)</author>
+      <guid>https://example.org/game/2023_projectt/</guid><media:content url="https://example.org/game/2023_projectt/0_hu7ed34443d1544a352b46060898c0c6d5_89316_900x600_fill_box_smart1_3.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://example.org/game/2023_projectt/0_hu7ed34443d1544a352b46060898c0c6d5_89316_900x600_fill_box_smart1_3.png&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>
